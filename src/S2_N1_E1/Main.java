@@ -35,8 +35,8 @@ public class Main {
                 sale1.calculateTotalSale(productList);
 //                to show IndexOutOfBoundsException error uncomment line 34
                 System.out.println(sale1.getProductList().get(100));
-            } catch (EmptySaleException e) {
-                throw new EmptySaleException(e.getMessage());
+            } catch (Exception e) {
+                System.out.println("El producte no es troba a la llista de productes venuts");
             }
             finally {
                 option = "N";

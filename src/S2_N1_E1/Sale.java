@@ -16,8 +16,12 @@ public class Sale {
     }
 
     public void calculateTotalSale(List<Product> productList) throws EmptySaleException {
-        if (productList.size() == 0)
-            throw new EmptySaleException("Per fer una venda primer has d’afegir productes");
+        try{
+            if (productList.size() == 0)
+                throw new EmptySaleException();
+        } catch (EmptySaleException e) {
+            System.out.println("Per fer una venda primer has d’afegir productes");
+        }
 //        addProductsToProductList(productList);
         double totalSale = 0;
         int totalUnits = 0;

@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="415dfe53-b08d-4385-a69b-6624dfdab60c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_N2_E1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N1_E1/EmptySaleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N1_E1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N1_E1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N1_E1/S2_N1_E1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N1_E1/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N2_E1/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S2_N2_E1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S2_N1_E1/EmptySaleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2_N1_E1/EmptySaleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S2_N1_E1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2_N1_E1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S2_N1_E1/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2_N1_E1/Sale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +95,7 @@
       <workItem from="1682309824622" duration="2973000" />
       <workItem from="1682321201086" duration="2892000" />
       <workItem from="1682324131536" duration="24215000" />
-      <workItem from="1682404583066" duration="2140000" />
+      <workItem from="1682404583066" duration="3198000" />
     </task>
     <servers />
   </component>
